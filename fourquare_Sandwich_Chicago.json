@@ -1,0 +1,681 @@
+{
+  "results": [
+    {
+      "fsq_id": "4b4388d5f964a520a3e225e3",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fastfood-Restaurant",
+          "short_name": "Fastfood",
+          "plural_name": "Fastfood-Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4b9eb0-d68a-012e-5619-003048cad9da",
+          "name": "Potbelly Sandwich Shop"
+        }
+      ],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 247,
+      "geocodes": {
+        "main": {
+          "latitude": 41.880445,
+          "longitude": -87.629813
+        },
+        "roof": {
+          "latitude": 41.880445,
+          "longitude": -87.629813
+        }
+      },
+      "link": "/v3/places/4b4388d5f964a520a3e225e3",
+      "location": {
+        "address": "55 W Monroe St",
+        "address_extended": "Lbby 100D",
+        "census_block": "170318391001075",
+        "country": "US",
+        "cross_street": "at Dearborn St",
+        "dma": "Chicago",
+        "formatted_address": "55 W Monroe St (at Dearborn St), Chicago, IL 60603",
+        "locality": "Chicago",
+        "postcode": "60603",
+        "region": "IL"
+      },
+      "name": "Potbelly Sandwich Shop",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "5cf58495e65d0c002c8700f5",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fastfood-Restaurant",
+          "short_name": "Fastfood",
+          "plural_name": "Fastfood-Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4b9eb0-d68a-012e-5619-003048cad9da",
+          "name": "Potbelly Sandwich Shop"
+        }
+      ],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2323,
+      "geocodes": {
+        "main": {
+          "latitude": 41.891623,
+          "longitude": -87.608927
+        },
+        "roof": {
+          "latitude": 41.891623,
+          "longitude": -87.608927
+        }
+      },
+      "link": "/v3/places/5cf58495e65d0c002c8700f5",
+      "location": {
+        "address": "600 E Grand Ave",
+        "census_block": "170310814021009",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Chicago",
+        "formatted_address": "600 E Grand Ave, Chicago, IL 60611",
+        "locality": "Chicago",
+        "postcode": "60611",
+        "region": "IL"
+      },
+      "name": "Potbelly Sandwich Shop",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "4b0304c9f964a520f64b22e3",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fastfood-Restaurant",
+          "short_name": "Fastfood",
+          "plural_name": "Fastfood-Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4b9eb0-d68a-012e-5619-003048cad9da",
+          "name": "Potbelly Sandwich Shop"
+        }
+      ],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2987,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.869302,
+          "longitude": -87.663898
+        },
+        "main": {
+          "latitude": 41.869149,
+          "longitude": -87.663896
+        },
+        "roof": {
+          "latitude": 41.869149,
+          "longitude": -87.663896
+        }
+      },
+      "link": "/v3/places/4b0304c9f964a520f64b22e3",
+      "location": {
+        "address": "1459 W Taylor St",
+        "census_block": "170312831001000",
+        "country": "US",
+        "dma": "Chicago",
+        "formatted_address": "1459 W Taylor St, Chicago, IL 60607",
+        "locality": "Chicago",
+        "postcode": "60607",
+        "region": "IL"
+      },
+      "name": "Potbelly Sandwich Shop",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "4dc0b87352b1877d85a45dd2",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fastfood-Restaurant",
+          "short_name": "Fastfood",
+          "plural_name": "Fastfood-Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4b9eb0-d68a-012e-5619-003048cad9da",
+          "name": "Potbelly Sandwich Shop"
+        }
+      ],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2069,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.896708,
+          "longitude": -87.625979
+        },
+        "main": {
+          "latitude": 41.896578,
+          "longitude": -87.625976
+        },
+        "roof": {
+          "latitude": 41.896578,
+          "longitude": -87.625976
+        }
+      },
+      "link": "/v3/places/4dc0b87352b1877d85a45dd2",
+      "location": {
+        "address": "57 E Chicago Ave",
+        "census_block": "170310815002001",
+        "country": "US",
+        "cross_street": "btwn Rush St & Wabash Ave",
+        "dma": "Chicago",
+        "formatted_address": "57 E Chicago Ave (btwn Rush St & Wabash Ave), Chicago, IL 60611",
+        "locality": "Chicago",
+        "postcode": "60611",
+        "region": "IL"
+      },
+      "name": "Potbelly Sandwich Shop",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "532c7f3f498e0d56ddcd332a",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fastfood-Restaurant",
+          "short_name": "Fastfood",
+          "plural_name": "Fastfood-Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4b9eb0-d68a-012e-5619-003048cad9da",
+          "name": "Potbelly Sandwich Shop"
+        }
+      ],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 4463,
+      "geocodes": {
+        "main": {
+          "latitude": 41.905374,
+          "longitude": -87.669438
+        },
+        "roof": {
+          "latitude": 41.905374,
+          "longitude": -87.669438
+        }
+      },
+      "link": "/v3/places/532c7f3f498e0d56ddcd332a",
+      "location": {
+        "address": "1293 N Milwaukee Ave",
+        "census_block": "170312415003007",
+        "country": "US",
+        "cross_street": "btwn Ashland Ave & Paulina St",
+        "dma": "Chicago",
+        "formatted_address": "1293 N Milwaukee Ave (btwn Ashland Ave & Paulina St), Chicago, IL 60622",
+        "locality": "Chicago",
+        "postcode": "60622",
+        "region": "IL"
+      },
+      "name": "Potbelly Sandwich Shop",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "4e2b7d4c6284b96d7b856f22",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fastfood-Restaurant",
+          "short_name": "Fastfood",
+          "plural_name": "Fastfood-Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4b9eb0-d68a-012e-5619-003048cad9da",
+          "name": "Potbelly Sandwich Shop"
+        }
+      ],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 447,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.879202,
+          "longitude": -87.624419
+        },
+        "main": {
+          "latitude": 41.879195,
+          "longitude": -87.624689
+        },
+        "roof": {
+          "latitude": 41.879195,
+          "longitude": -87.624689
+        }
+      },
+      "link": "/v3/places/4e2b7d4c6284b96d7b856f22",
+      "location": {
+        "address": "200 S Michigan Ave",
+        "address_extended": "Ste 140",
+        "census_block": "170313204001017",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Chicago",
+        "formatted_address": "200 S Michigan Ave, Chicago, IL 60604",
+        "locality": "Chicago",
+        "postcode": "60604",
+        "region": "IL"
+      },
+      "name": "Potbelly Sandwich Shop",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "560d674f498e751a3c0fbb8e",
+      "categories": [
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 507,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.880445,
+          "longitude": -87.635267
+        },
+        "main": {
+          "latitude": 41.88045,
+          "longitude": -87.635061
+        },
+        "roof": {
+          "latitude": 41.88045,
+          "longitude": -87.635061
+        }
+      },
+      "link": "/v3/places/560d674f498e751a3c0fbb8e",
+      "location": {
+        "address": "107 S Franklin St",
+        "census_block": "170318391002000",
+        "country": "US",
+        "cross_street": "",
+        "dma": "Chicago",
+        "formatted_address": "107 S Franklin St, Chicago, IL 60606",
+        "locality": "Chicago",
+        "postcode": "60606",
+        "region": "IL"
+      },
+      "name": "Hannah's Bretzel",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "49bac1c8f964a520a0531fe3",
+      "categories": [
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13039,
+          "name": "Feinkostladen",
+          "short_name": "Feinkostladen",
+          "plural_name": "Feinkostläden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13000,
+          "name": "Essen und Trinken",
+          "short_name": "Essen und Trinken",
+          "plural_name": "Essen und Trinken",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1514,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.867928,
+          "longitude": -87.642208
+        },
+        "main": {
+          "latitude": 41.867937,
+          "longitude": -87.641966
+        },
+        "roof": {
+          "latitude": 41.867937,
+          "longitude": -87.641966
+        }
+      },
+      "link": "/v3/places/49bac1c8f964a520a0531fe3",
+      "location": {
+        "address": "1141 S Jefferson St",
+        "census_block": "170318419002021",
+        "country": "US",
+        "cross_street": "at Roosevelt Rd.",
+        "dma": "Chicago",
+        "formatted_address": "1141 S Jefferson St (at Roosevelt Rd.), Chicago, IL 60607",
+        "locality": "Chicago",
+        "postcode": "60607",
+        "region": "IL"
+      },
+      "name": "Manny's Cafeteria & Delicatessen",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "4a27d187f964a52088911fe3",
+      "categories": [
+        {
+          "id": 13068,
+          "name": "Amerikanisches Restaurant",
+          "short_name": "Amerikanisch",
+          "plural_name": "Amerikanische Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13332,
+          "name": "Salat-Restaurant",
+          "short_name": "Salat",
+          "plural_name": "Salat-Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1003,
+      "geocodes": {
+        "main": {
+          "latitude": 41.886057,
+          "longitude": -87.636001
+        },
+        "roof": {
+          "latitude": 41.886057,
+          "longitude": -87.636001
+        }
+      },
+      "link": "/v3/places/4a27d187f964a52088911fe3",
+      "location": {
+        "address": "333 W Wacker Dr",
+        "census_block": "170318391001032",
+        "country": "US",
+        "cross_street": "at Lake",
+        "dma": "Chicago",
+        "formatted_address": "333 W Wacker Dr (at Lake), Chicago, IL 60606",
+        "locality": "Chicago",
+        "postcode": "60606",
+        "region": "IL"
+      },
+      "name": "Goodwin's Restaurant",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    },
+    {
+      "fsq_id": "49edf724f964a52006681fe3",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fastfood-Restaurant",
+          "short_name": "Fastfood",
+          "plural_name": "Fastfood-Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13334,
+          "name": "Sandwich-Laden",
+          "short_name": "Sandwich-Laden",
+          "plural_name": "Sandwich-Läden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4b9eb0-d68a-012e-5619-003048cad9da",
+          "name": "Potbelly Sandwich Shop"
+        }
+      ],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1175,
+      "geocodes": {
+        "main": {
+          "latitude": 41.887714,
+          "longitude": -87.623669
+        },
+        "roof": {
+          "latitude": 41.887714,
+          "longitude": -87.623669
+        }
+      },
+      "link": "/v3/places/49edf724f964a52006681fe3",
+      "location": {
+        "address": "111 E Wacker Dr",
+        "census_block": "170313201021011",
+        "country": "US",
+        "cross_street": "at Stetson Ave & Michigan Ave",
+        "dma": "Chicago",
+        "formatted_address": "111 E Wacker Dr (at Stetson Ave & Michigan Ave), Chicago, IL 60601",
+        "locality": "Chicago",
+        "postcode": "60601",
+        "region": "IL"
+      },
+      "name": "Potbelly Sandwich Shop",
+      "related_places": {},
+      "timezone": "America/Chicago"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        },
+        "radius": 5000
+      }
+    }
+  }
+}
